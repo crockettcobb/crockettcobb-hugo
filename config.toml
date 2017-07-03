@@ -1,0 +1,22 @@
+baseurl = "https://crockettcobb.github.io"
+title = "cobbweb"
+author = "cwcobb"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "cobbweb"
+
+[[menu.main]]
+    name = "About"
+    url  = "https://crockettcobb.github.io/"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/crockettcobb"
+[[menu.main]]
+    name = "Resume"
+    url  = "https://www.linkedin.com/in/crockett-cobb-30739210/"
